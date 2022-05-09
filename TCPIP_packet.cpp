@@ -18,15 +18,6 @@ int main(int argc, char** argv) {
 
 	std::cout << packet << '\n' << argv[2];
 
-	auto test = "4500 0028 abcd 0000 4006 c33d c0a8 8991 c0a8 00e3 3039 0050 0000 0000 0000 0000 5002 7110 0284 0000";
-
-	if (test == packet) {
-		std::cout << "\nOK";
-	}
-	else {
-		std::cout << "\nWRONG!";
-	}
-
 	return 0;
 
 }
