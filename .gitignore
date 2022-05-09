@@ -6,5 +6,5 @@ Create_TCPIP_packet.vcxproj.filters
 Create_TCPIP_packet.vcxproj.user
 Create_TCPIP_packet.sln
 Debug/
-TCPIP_packet.exe
+TCPIP_packet
 send.py
