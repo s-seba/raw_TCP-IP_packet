@@ -1,10 +1,4 @@
 functions.o
 TCPIP_packet.o
-.vs/
-Create_TCPIP_packet.vcxproj
-Create_TCPIP_packet.vcxproj.filters
-Create_TCPIP_packet.vcxproj.user
-Create_TCPIP_packet.sln
-Debug/
 TCPIP_packet
-send.py
+
