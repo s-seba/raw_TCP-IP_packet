@@ -50,7 +50,7 @@ on port: `9000` and SYN flag set.
 Catching packets with Wireshark. 
 Here is example of starting three-way-handshake.
 
-![Wireshark screenshot](./img/Raw_packet_wireshark.jpg)
+![Wireshark screenshot](./img/Wireshark_screenshot.PNG)
 
 1. Packet with SYN is send from local machine (client) to local server
 2. The server responds with SYN, ACK
