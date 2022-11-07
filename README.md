@@ -21,9 +21,9 @@ Open terminal window in project directory and type:
 
 After compiling, start Wireshark and run TCPIP_packet with arguments:
 
-`./TCPIP_packet source_ip destination_ip TTL source_port destination_port tcp_flags`
+`$ ./TCPIP_packet source_ip destination_ip TTL source_port destination_port tcp_flags`
 
-Run  `./TCPIP_packet`  without any arguments to see info about tcp flags.
+Run  `$ ./TCPIP_packet`  without any arguments to see info about tcp flags.
 <br /> <br />
 
 This is example from my network:
